@@ -8,4 +8,4 @@ Training DNN:
 Within a specific folder, source “XX_training.r” to train DNN with its scaling parameters. Note that those files are already saved in each example folder.
 
 Generating results for validation:
-Within a specific folder, source “XX_validation.r” file to obtain validation results, and then use “DNN_latex_table.r” to generate the corresponding table / Figure. 
+Within a specific folder, source “XX_validation.r” file to obtain validation results, and then use “DNN_latex_table.r” to generate the corresponding table / figure. 
