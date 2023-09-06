@@ -1,4 +1,4 @@
-# DNN_point_estimation
+# DNN_Point_Estimation
 
 This is a help file for the R code accompanying a paper with the title “Deep Neural Networks Guided Ensemble Learning for Point Estimation”.
 
